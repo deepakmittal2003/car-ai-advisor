@@ -1,0 +1,317 @@
+[
+  {
+    "make": "Hyundai",
+    "model": "Creta",
+    "price": 1500000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "mileage": 18,
+    "safety": 4
+  },
+  {
+    "make": "Tata",
+    "model": "Nexon",
+    "price": 1300000,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "mileage": 20,
+    "safety": 5
+  },
+  {
+    "make": "Maruti Suzuki",
+    "model": "Brezza",
+    "price": 1250000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "mileage": 19,
+    "safety": 4
+  },
+  {
+    "make": "Kia",
+    "model": "Seltos",
+    "price": 1600000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "mileage": 18,
+    "safety": 4
+  },
+  {
+    "make": "Honda",
+    "model": "Elevate",
+    "price": 1450000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "mileage": 17,
+    "safety": 5
+  },
+  {
+    "make": "Mahindra",
+    "model": "XUV700",
+    "price": 2200000,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "mileage": 16,
+    "safety": 5
+  },
+  {
+    "make": "Mahindra",
+    "model": "Scorpio N",
+    "price": 2100000,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "mileage": 15,
+    "safety": 5
+  },
+  {
+    "make": "Tata",
+    "model": "Harrier",
+    "price": 2300000,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "mileage": 16,
+    "safety": 5
+  },
+  {
+    "make": "Tata",
+    "model": "Safari",
+    "price": 2500000,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "mileage": 15,
+    "safety": 5
+  },
+  {
+    "make": "Hyundai",
+    "model": "Venue",
+    "price": 1100000,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "mileage": 19,
+    "safety": 4
+  },
+  {
+    "make": "Kia",
+    "model": "Sonet",
+    "price": 1150000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "mileage": 19,
+    "safety": 4
+  },
+  {
+    "make": "Maruti Suzuki",
+    "model": "Grand Vitara",
+    "price": 1700000,
+    "fuel": "Hybrid",
+    "transmission": "Automatic",
+    "mileage": 27,
+    "safety": 4
+  },
+  {
+    "make": "Toyota",
+    "model": "Urban Cruiser Hyryder",
+    "price": 1800000,
+    "fuel": "Hybrid",
+    "transmission": "Automatic",
+    "mileage": 27,
+    "safety": 4
+  },
+  {
+    "make": "Toyota",
+    "model": "Innova Hycross",
+    "price": 2900000,
+    "fuel": "Hybrid",
+    "transmission": "Automatic",
+    "mileage": 23,
+    "safety": 5
+  },
+  {
+    "make": "Toyota",
+    "model": "Fortuner",
+    "price": 4200000,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "mileage": 14,
+    "safety": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Virtus",
+    "price": 1550000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "mileage": 18,
+    "safety": 5
+  },
+  {
+    "make": "Skoda",
+    "model": "Slavia",
+    "price": 1500000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "mileage": 18,
+    "safety": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Taigun",
+    "price": 1600000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "mileage": 18,
+    "safety": 5
+  },
+  {
+    "make": "Skoda",
+    "model": "Kushaq",
+    "price": 1650000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "mileage": 18,
+    "safety": 5
+  },
+  {
+    "make": "Maruti Suzuki",
+    "model": "Baleno",
+    "price": 900000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "mileage": 22,
+    "safety": 3
+  },
+  {
+    "make": "Hyundai",
+    "model": "i20",
+    "price": 950000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "mileage": 21,
+    "safety": 3
+  },
+  {
+    "make": "Tata",
+    "model": "Altroz",
+    "price": 900000,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "mileage": 20,
+    "safety": 5
+  },
+  {
+    "make": "Honda",
+    "model": "City",
+    "price": 1450000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "mileage": 18,
+    "safety": 5
+  },
+  {
+    "make": "Hyundai",
+    "model": "Verna",
+    "price": 1550000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "mileage": 19,
+    "safety": 5
+  },
+  {
+    "make": "Tata",
+    "model": "Punch",
+    "price": 850000,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "mileage": 20,
+    "safety": 5
+  },
+  {
+    "make": "Mahindra",
+    "model": "XUV 3XO",
+    "price": 1200000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "mileage": 18,
+    "safety": 5
+  },
+  {
+    "make": "Mahindra",
+    "model": "Thar",
+    "price": 1700000,
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "mileage": 15,
+    "safety": 4
+  },
+  {
+    "make": "MG",
+    "model": "Astor",
+    "price": 1450000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "mileage": 17,
+    "safety": 5
+  },
+  {
+    "make": "MG",
+    "model": "Hector",
+    "price": 2200000,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "mileage": 15,
+    "safety": 4
+  },
+  {
+    "make": "BYD",
+    "model": "Atto 3",
+    "price": 3400000,
+    "fuel": "EV",
+    "transmission": "Automatic",
+    "mileage": 20,
+    "safety": 5
+  },
+  {
+    "make": "Tata",
+    "model": "Nexon EV",
+    "price": 1700000,
+    "fuel": "EV",
+    "transmission": "Automatic",
+    "mileage": 22,
+    "safety": 5
+  },
+  {
+    "make": "Tata",
+    "model": "Punch EV",
+    "price": 1400000,
+    "fuel": "EV",
+    "transmission": "Automatic",
+    "mileage": 25,
+    "safety": 5
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV",
+    "price": 2500000,
+    "fuel": "EV",
+    "transmission": "Automatic",
+    "mileage": 22,
+    "safety": 5
+  },
+  {
+    "make": "Mahindra",
+    "model": "BE 6",
+    "price": 2200000,
+    "fuel": "EV",
+    "transmission": "Automatic",
+    "mileage": 20,
+    "safety": 5
+  },
+  {
+    "make": "Mahindra",
+    "model": "XEV 9e",
+    "price": 3000000,
+    "fuel": "EV",
+    "transmission": "Automatic",
+    "mileage": 21,
+    "safety": 5
+  }
+]
