@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 
 import cars from "@/data/cars.json";
 
-import { prisma } from "@/lib/prisma";
+//import { prisma } from "@/lib/prisma";
 import { calculateScore } from "@/lib/recommendation";
 import { generateReasons } from "@/lib/ai";
 
@@ -19,14 +19,14 @@ export async function POST(
       usage,
     } = body;
 
-    await prisma.search.create({
+    /*await prisma.search.create({
       data: {
         budget: Number(budget),
         fuelType,
         transmission,
         usage,
       },
-    });
+    });*/
 
     const rankedCars = cars
       .map((car) => ({
