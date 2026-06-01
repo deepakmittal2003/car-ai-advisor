@@ -17,6 +17,7 @@
 + UI component generation
 + Gemini integration assistance
 + Debugging suggestions
+
 **Manual Work**
 + Product scoping
 + Recommendation scoring logic
